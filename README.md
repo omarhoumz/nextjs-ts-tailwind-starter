@@ -8,7 +8,11 @@ Run the following command to create a new project with this Starter:
 
 ```
 yarn create next-app my-app -e https://github.com/omarhoumz/ts-tailwind-nextjs-starter.git
-# or
+```
+
+### or
+
+```
 npx create-next-app my-app -e https://github.com/omarhoumz/ts-tailwind-nextjs-starter.git
 ```
 
@@ -16,7 +20,11 @@ Once the project and dependencies are finished installing, you can navigate to t
 
 ```
 yarn dev
-# or
+```
+
+### or
+
+```
 npm run dev
 ```
 
